@@ -29,8 +29,8 @@ dependencies:
 #   使用这个插件的时候，要注意flutter sdk的版本，我原先是1.12版本，就会报他源码出问题的错误。
   flutter_staggered_grid_view: ^0.3.2
 # 这个是测试了，自己创建一个插进的引用
-  asrplugin:
-    path: C:\Users\abc\Desktop\asr_plugin\asr_plugin
+#  asrplugin:
+#    path: C:\Users\abc\Desktop\asr_plugin\asr_plugin
 
 
 
